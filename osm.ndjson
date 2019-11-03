@@ -27,6 +27,7 @@
 {"id":"10349437","osmNodeId":"3068327572","stationName":"Altbach","description":"zu Gleis 3/4","revised":false}
 {"id":"10458729","osmNodeId":"3774699264","stationName":"Alte Wöhr","description":"zu Gleis 1/2 (S-Bahn)","revised":false}
 {"id":"10265461","osmNodeId":"4751565024","stationName":"Altenbeken","description":"zu Gleis 22/23","revised":false}
+{"id":"10265460","osmNodeId":"1805200955","stationName":"Altenbeken","description":"zu Gleis 1/21","revised":false}
 {"id":"10453526","osmNodeId":"4088235059","stationName":"Altenburg","description":"zu Gleis 2/3","revised":false}
 {"id":"10448351","osmNodeId":"1659651061","stationName":"Altglienicke","description":"zu Gleis 1/2 (S-Bahn)","revised":false}
 {"id":"10453207","osmNodeId":"4088354555","stationName":"Andernach","description":"zu Gleis 2/3/24","revised":false}
@@ -241,6 +242,8 @@
 {"id":"10431484","osmNodeId":"1519153023","stationName":"Biberach (Riß)","description":"zu Gleis 2/3","revised":false}
 {"id":"10304649","osmNodeId":"647221623","stationName":"Bielefeld Hbf","description":"UG ; EG/PU","revised":false}
 {"id":"10359077","osmNodeId":"2691422033","stationName":"Bielefeld Hbf","description":"UG ; GL 5+6","revised":false}
+{"id":"10359074","osmNodeId":"4054311793","stationName":"Bielefeld Hbf","description":"zu Gleis 1/2 Abschnitt B/C","revised":false}
+{"id":"10359075","osmNodeId":"4061724156","stationName":"Bielefeld Hbf","description":"zu Gleis 3/4","revised":false}
 {"id":"10447483","osmNodeId":"3998912963","stationName":"Biesdorf","description":"zu Gleis 2 (S-Bahn)","revised":false}
 {"id":"10447482","osmNodeId":"3998913012","stationName":"Biesdorf","description":"zu Gleis 1 (S-Bahn)","revised":false}
 {"id":"10457218","osmNodeId":"4218614321","stationName":"Biesdorf","description":"von EG zu Brücke","revised":false}
@@ -290,6 +293,7 @@
 {"id":"10286971","osmNodeId":"1826184135","stationName":"Bramsche","description":"zu Gleis 2/4","revised":false}
 {"id":"10464324","osmNodeId":"4120683693","stationName":"Brandenburg Hbf","description":"zu Gleis 4","revised":false}
 {"id":"10464322","osmNodeId":"4120683753","stationName":"Brandenburg Hbf","description":"zu Gleis 1","revised":false}
+{"id":"10464323","osmNodeId":"4120683723","stationName":"Brandenburg Hbf","description":"zu Gleis 2/3","revised":false}
 {"id":"10236244","osmNodeId":"3648319922","stationName":"Brannenburg","description":"zu Gleis 2/3","revised":false}
 {"id":"10236241","osmNodeId":"3648319904","stationName":"Brannenburg","description":"zu Gleis 1","revised":false}
 {"id":"10435192","osmNodeId":"3145873111","stationName":"Braunschweig Hbf","description":"zu Gleis 7/8 Abschnitt D/E","revised":false}
@@ -474,6 +478,8 @@
 {"id":"10274845","osmNodeId":"3982839393","stationName":"Eberswalde Hbf","description":"zu Gleis 4/5","revised":false}
 {"id":"10546300","osmNodeId":"4393984564","stationName":"Ebing","description":"zu Gleis 1/2","revised":false}
 {"id":"10016601","osmNodeId":"2600990741","stationName":"Echterdingen","description":"zu Gleis 1/2 (S-Bahn)","revised":false}
+{"id":"10493118","osmNodeId":"4137979890","stationName":"Efringen-Kirchen","description":"zu Gleis 4/5","revised":false}
+{"id":"10493117","osmNodeId":"4137978577","stationName":"Efringen-Kirchen","description":"zu Gleis 3","revised":false}
 {"id":"10563701","osmNodeId":"2318223275","stationName":"Eglharting","description":"Bahnsteig, Gleis 1/2","revised":false}
 {"id":"10016805","osmNodeId":"3297111738","stationName":"Ehingen (Donau)","description":"zu Gleis 2/3","revised":false}
 {"id":"10314620","osmNodeId":"3928806991","stationName":"Eidelstedt","description":"zu Gleis 1/2 (S-Bahn)","revised":false}
@@ -504,6 +510,7 @@
 {"id":"10499220","osmNodeId":"4143630807","stationName":"Eppstein","description":"zu Gleis 2/3","revised":false}
 {"id":"10499219","osmNodeId":"4143630833","stationName":"Eppstein","description":"zu Gleis 1","revised":false}
 {"id":"10491607","osmNodeId":"4139416930","stationName":"Erbach (Württ)","description":"zu Gleis 2/3","revised":false}
+{"id":"10491608","osmNodeId":"4139416940","stationName":"Erbach (Württ)","description":"zu Gleis 1","revised":false}
 {"id":"10321451","osmNodeId":"4101516512","stationName":"Erfurt Hbf","description":"zu Gleis 9/10 Abschnitt D/E","revised":false}
 {"id":"10310130","osmNodeId":"3087763075","stationName":"Erfurt Hbf","description":"zu Gleis 3-8 Abschnitt D/E","revised":false}
 {"id":"10310129","osmNodeId":"3087763078","stationName":"Erfurt Hbf","description":"zu Gleis 1/2 Abschnitt D/E","revised":false}
@@ -565,6 +572,7 @@
 {"id":"10505070","osmNodeId":"3831607590","stationName":"Frankenthal Hbf","description":"zu Gleis 1","revised":false}
 {"id":"10505069","osmNodeId":"3831607591","stationName":"Frankenthal Hbf","description":"zu Gleis 2/3","revised":false}
 {"id":"10505067","osmNodeId":"3831608711","stationName":"Frankenthal Süd","description":"zu Gleis 2/3","revised":false}
+{"id":"10354891","osmNodeId":"4143038009","stationName":"Frankfurt (Main) Flughafen Regionalbahnhof","description":"zu Gleis 1","revised":false}
 {"id":"10351032","osmNodeId":"4119168296","stationName":"Frankfurt (Main) Hauptwache","description":"zu Gleis 2/3 (S-Bahn)","revised":false}
 {"id":"10561327","osmNodeId":"3945358541","stationName":"Frankfurt (Main) Hbf","revised":false}
 {"id":"10020626","osmNodeId":"3982600183","stationName":"Frankfurt (Main) Hbf","description":"DB Lounge","revised":false}
@@ -579,6 +587,10 @@
 {"id":"10020102","osmNodeId":"4035436538","stationName":"Frankfurt (Oder)","description":"zu Gleis 11/12","revised":false}
 {"id":"10020100","osmNodeId":"4035436551","stationName":"Frankfurt (Oder)","description":"zu Gleis 5/6","revised":false}
 {"id":"10020096","osmNodeId":"4035436542","stationName":"Frankfurt (Oder)","description":"zu Gleis 9/10","revised":false}
+{"id":"10179977","osmNodeId":"5115167720","stationName":"Frankfurt am Main Flughafen Fernbahnhof","description":"zu Gleis 6/7","revised":false}
+{"id":"10179981","osmNodeId":"5115167923","stationName":"Frankfurt am Main Flughafen Fernbahnhof","description":"zu Gleis 6/7","revised":false}
+{"id":"10180977","osmNodeId":"3615356720","stationName":"Frankfurt am Main Flughafen Fernbahnhof","description":"zu Gleis 4/5","revised":false}
+{"id":"10180976","osmNodeId":"5115167922","stationName":"Frankfurt am Main Flughafen Fernbahnhof","description":"zu Gleis 4/5","revised":false}
 {"id":"10122847","osmNodeId":"1320956841","stationName":"Frankfurt am Main Messe","description":"von EG zu Brücke","revised":false}
 {"id":"10348352","osmNodeId":"1320956881","stationName":"Frankfurt am Main Messe","description":"zu Gleis 1/2 (S-Bahn)","revised":false}
 {"id":"10315764","osmNodeId":"4215671207","stationName":"Frankfurt am Main Stadion","description":"zu Gleis 6/7","revised":false}
@@ -705,6 +717,7 @@
 {"id":"10028020","osmNodeId":"3260318503","stationName":"Hamburg Hbf","description":"zu Gleis 1/2 (S-Bahn)","revised":false}
 {"id":"10484324","osmNodeId":"4027487348","stationName":"Hamburg-Altona","description":"zu Gleis 3/4 (S-Bahn)","revised":false}
 {"id":"10484325","osmNodeId":"4034103651","stationName":"Hamburg-Altona","description":"zu Gleis 1/2 (S-Bahn)","revised":false}
+{"id":"10097636","osmNodeId":"4109129785","stationName":"Hamburg-Altona","description":"Lastenaufzug","revised":false}
 {"id":"10435731","osmNodeId":"1430567265","stationName":"Hamburg-Bergedorf","description":"zu Gleis 1/2 Abschnitt F","revised":false}
 {"id":"10435732","osmNodeId":"1919256402","stationName":"Hamburg-Bergedorf","description":"zu Gleis 3/4 (S-Bahn)","revised":false}
 {"id":"10467952","osmNodeId":"1552132572","stationName":"Hamburg-Bergedorf","description":"EG - 1.OG - 2.OG","revised":false}
@@ -719,6 +732,7 @@
 {"id":"10566392","osmNodeId":"4056842424","stationName":"Hamm (Westf)","description":"zu Gleis 8/9 Abschnitt B/C/D","revised":false}
 {"id":"10566394","osmNodeId":"2360549952","stationName":"Hamm (Westf)","description":"Gleis 1/2","revised":false}
 {"id":"10565194","osmNodeId":"2360549948","stationName":"Hamm (Westf)","description":"Gleis 3/4","revised":false}
+{"id":"10477624","osmNodeId":"3949071222","stationName":"Hammerbrook","description":"zu Gleis 1/2 (S-Bahn)","revised":false}
 {"id":"10028440","osmNodeId":"3776128427","stationName":"Hanau Hbf","description":"zu Gleis 1/2 (S-Bahn)","revised":false}
 {"id":"10447697","osmNodeId":"4402296842","stationName":"Hannover - Ledeburg","description":"zu Gleis 1/2","revised":false}
 {"id":"10471811","osmNodeId":"4402296845","stationName":"Hannover - Vinnhorst","description":"zu Gleis 1/2","revised":false}
@@ -782,6 +796,10 @@
 {"id":"10461182","osmNodeId":"1887439952","stationName":"Hennef Im Siegbogen","description":"zu Gleis 2","revised":false}
 {"id":"10334189","osmNodeId":"763545678","stationName":"Hennigsdorf (b Berlin)","description":"zu Gleis 6/7 (S-Bahn)","revised":false}
 {"id":"10090640","osmNodeId":"763545675","stationName":"Hennigsdorf (b Berlin)","description":"zu Gleis 1/5 (S-Bahn)","revised":false}
+{"id":"10430899","osmNodeId":"1669552208","stationName":"Herford","description":"zu Gleis 6/7","revised":false}
+{"id":"10433630","osmNodeId":"1669552215","stationName":"Herford","description":"zu Gleis 4/5","revised":false}
+{"id":"10443577","osmNodeId":"1669552206","stationName":"Herford","description":"zu Gleis 2/3","revised":false}
+{"id":"10443579","osmNodeId":"1669552214","stationName":"Herford","description":"zu Gleis 1","revised":false}
 {"id":"10170315","osmNodeId":"3778070642","stationName":"Hermannstraße","description":"zu Gleis 1/2 (S-Bahn)","revised":true}
 {"id":"10491667","osmNodeId":"3528463234","stationName":"Herne","description":"zu Gleis 6/7","revised":false}
 {"id":"10460172","osmNodeId":"3528463229","stationName":"Herne","description":"zu Gleis 1/3","revised":false}
@@ -870,6 +888,7 @@
 {"id":"10186447","osmNodeId":"2348519930","stationName":"Kassel-Wilhelmshöhe","description":"zu Gleis 7/8 Abschnitt C","revised":false}
 {"id":"10186448","osmNodeId":"2348519966","stationName":"Kassel-Wilhelmshöhe","description":"zu Gleis 9/10 Abschnitt C","revised":false}
 {"id":"10319860","osmNodeId":"3398461029","stationName":"Keitum","description":"zu Gleis 1","revised":false}
+{"id":"10034416","osmNodeId":"4138949830","stationName":"Kempten (Allgäu) Hbf","description":"Empfangshalle - 1.OG - 2.OG","revised":false}
 {"id":"10480230","osmNodeId":"3849294593","stationName":"Kettwig","description":"zu Gleis 1 (S-Bahn)","revised":false}
 {"id":"10480231","osmNodeId":"3873383573","stationName":"Kettwig","description":"zu Gleis 2/3 (S-Bahn)","revised":false}
 {"id":"10236237","osmNodeId":"4432744114","stationName":"Kiefersfelden","description":"zu Gleis 2/3","revised":false}
@@ -889,6 +908,7 @@
 {"id":"10450460","osmNodeId":"3208210094","stationName":"Koblenz Stadtmitte","description":"zu Gleis 2/3","revised":false}
 {"id":"10146029","osmNodeId":"3999451420","stationName":"Köllnische Heide","description":"zu Gleis 1/2 (S-Bahn)","revised":true}
 {"id":"10292677","osmNodeId":"4845395263","stationName":"Köln Frankfurter Straße","description":"zu Gleis 1/2","revised":false}
+{"id":"10461384","osmNodeId":"4327494559","stationName":"Köln Geldernstr/Parkgürtel","description":"zu Gleis 1/2 (S-Bahn)","revised":false}
 {"id":"10035727","osmNodeId":"3744663511","stationName":"Köln Hansaring","description":"zu Gleis 1/2 (S-Bahn)","revised":false}
 {"id":"10408997","osmNodeId":"3939135836","stationName":"Köln Hbf","description":"zu Gleis 2/3","revised":false}
 {"id":"10035602","osmNodeId":"3939135841","stationName":"Köln Hbf","description":"zu Gleis 6/7","revised":false}
@@ -1167,6 +1187,7 @@
 {"id":"10454887","osmNodeId":"3774687033","stationName":"Münster (Westf) Hbf","description":"zu Gleis 14/17","revised":false}
 {"id":"10476573","osmNodeId":"2361338781","stationName":"Münster (Westf) Hbf","description":"zu Gleis 9/11/12","revised":false}
 {"id":"10464319","osmNodeId":"3774687271","stationName":"Münster (Westf) Hbf","description":"zu Gleis 4/8","revised":false}
+{"id":"10468331","osmNodeId":"5994322298","stationName":"Münster (Westf) Hbf","description":"zu Gleis 2/3","revised":false}
 {"id":"10499304","osmNodeId":"4519713718","stationName":"Münster-Hiltrup","description":"zu Gleis 2/3","revised":false}
 {"id":"10445184","osmNodeId":"4637320087","stationName":"Murnau","description":"zu Gleis 2/3","revised":false}
 {"id":"10445182","osmNodeId":"2423296235","stationName":"Murnau","description":"zu Gleis 1/4","revised":false}
@@ -1238,6 +1259,8 @@
 {"id":"10096964","osmNodeId":"3807853802","stationName":"Nienburg (Weser)","description":"von EG zu Tunnel","revised":false}
 {"id":"10096963","osmNodeId":"3933771879","stationName":"Nienburg (Weser)","description":"zu Gleis 5/6","revised":false}
 {"id":"10047338","osmNodeId":"3265173292","stationName":"Nienburg (Weser)","description":"zu Gleis 3/4","revised":false}
+{"id":"10504727","osmNodeId":"4095666141","stationName":"Nierstein","description":"zu Gleis 2","revised":false}
+{"id":"10504726","osmNodeId":"4095666143","stationName":"Nierstein","description":"zu Gleis 1","revised":false}
 {"id":"10447402","osmNodeId":"1132192002","stationName":"Nikolassee","description":"zu Gleis 1/2 (S-Bahn)","revised":false}
 {"id":"10313413","osmNodeId":"1132192011","stationName":"Nikolassee","description":"von Gleis 1/2 zu Gleis 3/4","revised":false}
 {"id":"10460929","osmNodeId":"3110346784","stationName":"Nordhausen","description":"zu Gleis 1/1a","revised":false}
@@ -1537,6 +1560,8 @@
 {"id":"10282172","osmNodeId":"4009429992","stationName":"Stade","description":"zu Gleis 1","revised":false}
 {"id":"10437288","osmNodeId":"4526371814","stationName":"Stadtallendorf","description":"zu Gleis 1/2","revised":false}
 {"id":"10097769","osmNodeId":"4104523931","stationName":"Stadthagen","description":"von EG zu Tunnel","revised":false}
+{"id":"10097768","osmNodeId":"599335309","stationName":"Stadthagen","description":"zu Gleis 3/4","revised":false}
+{"id":"10097767","osmNodeId":"599335311","stationName":"Stadthagen","description":"zu Gleis 1/2","revised":false}
 {"id":"10103619","osmNodeId":"3382416408","stationName":"Starnberg-Nord","description":"zu Gleis 1 (S-Bahn)","revised":false}
 {"id":"10103622","osmNodeId":"3382416409","stationName":"Starnberg-Nord","description":"zu Gleis 2 (S-Bahn)","revised":false}
 {"id":"10461456","osmNodeId":"1571543778","stationName":"Staudernheim","description":"zu Gleis 2/3","revised":false}
@@ -1714,6 +1739,7 @@
 {"id":"10256020","osmNodeId":"3550514150","stationName":"Wülfrath-Aprath","description":"zu Gleis 2","revised":false}
 {"id":"10256018","osmNodeId":"3550514160","stationName":"Wülfrath-Aprath","description":"zu Gleis 1","revised":false}
 {"id":"10475101","osmNodeId":"4746701726","stationName":"Wunstorf","description":"zu Gleis 8/9","revised":false}
+{"id":"10475100","osmNodeId":"4746701670","stationName":"Wunstorf","description":"zu Gleis 2/3","revised":false}
 {"id":"10352294","osmNodeId":"3749444994","stationName":"Wuppertal Hbf","description":"zu Gleis 4/5","revised":false}
 {"id":"10502375","osmNodeId":"4369404822","stationName":"Wuppertal Hbf","description":"zu Gleis 2/3","revised":false}
 {"id":"10352295","osmNodeId":"3327014963","stationName":"Wuppertal Zoologischer Garten","description":"zu Gleis 3/4","revised":false}

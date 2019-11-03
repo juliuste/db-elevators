@@ -4,9 +4,9 @@ List of stations that have not been (fully) covered yet.
 
 - [By Bundesland](#by-bundesland)
 
-**1738 of 2229** elevators covered **(78%)**.
+**1764 of 2229** elevators covered **(79.1%)**.
 
-**816 of 1104** stations fully covered **(73.9%)**.
+**831 of 1104** stations fully covered **(75.3%)**.
 
 ## By Bundesland
 
@@ -33,10 +33,8 @@ List of stations that have not been (fully) covered yet.
 - Bad Rappenau - 8000736
 - Baden-Baden - 8000774
 - Eberbach - 8000369
-- Efringen-Kirchen - 8001671
 - Ehningen (b Böblingen) - 8001689
 - Eislingen (Fils) - 8001731
-- Erbach (Württ) - 8001820
 - Esslingen-Zell - 8006642
 - Eutingen im Gäu - 8000101
 - Freiberg (Neckar) - 8002065
@@ -86,7 +84,6 @@ List of stations that have not been (fully) covered yet.
 - Günzburg - 8000139
 - Höllriegelskreuth - 8002899
 - Ingolstadt Hbf - 8000183
-- Kempten (Allgäu) Hbf - 8000197
 - Kersbach - 8003238
 - Landshut (Bay) Hbf - 8000217
 - München Donnersbergerbrücke - 8004128
@@ -134,7 +131,6 @@ List of stations that have not been (fully) covered yet.
 
 ### Brandenburg
 
-- Brandenburg Hbf - 8010060
 - Doberlug-Kirchhain - 8010079
 - Erkner - 8013477
 - Falkensee - 8013479
@@ -162,7 +158,6 @@ List of stations that have not been (fully) covered yet.
 - Hamburg-Altona - 8098553
 - Hamburg-Harburg - 8000147
 - Hamburg-Tonndorf - 8006197
-- Hammerbrook - 8004266
 - Klein Flottbek - 8003312
 - Kornweg (Klein Borstel) - 8003410
 - Rissen - 8005106
@@ -174,9 +169,7 @@ List of stations that have not been (fully) covered yet.
 - Bad Homburg - 8000712
 - Biblis - 8000503
 - Egelsbach - 8001672
-- Frankfurt (Main) Flughafen Regionalbahnhof - 8070004
 - Frankfurt (Main) Hbf - 8000105
-- Frankfurt am Main Flughafen Fernbahnhof - 8070003
 - Gießen - 8000124
 - Gießen Oswaldsgarten - 8002269
 - Grünberg (Oberhess) - 8002439
@@ -227,20 +220,16 @@ List of stations that have not been (fully) covered yet.
 - Osnabrück Hbf - 8000294
 - Seelze Pbf - 8005507
 - Soltau (Han) - 8000088
-- Stadthagen - 8005662
 - Uelzen - 8000168
 - Verden (Aller) - 8006076
 - Vienenburg - 8000364
 - Wolfsburg Hbf - 8006552
-- Wunstorf - 8000268
 
 
 ### Nordrhein-Westfalen
 
 - Altena (Westf) - 8000513
-- Altenbeken - 8000004
 - Bad Oeynhausen - 8000732
-- Bielefeld Hbf - 8000036
 - Bochum-Dahlhausen - 8001038
 - Bonn Hbf - 8000044
 - Bonn-Bad Godesberg - 8001082
@@ -263,13 +252,11 @@ List of stations that have not been (fully) covered yet.
 - Grevenbroich - 8000133
 - Gütersloh Hbf - 8002461
 - Hagen Hbf - 8000142
-- Herford - 8000162
 - Horrem - 8000178
 - Kamen - 8003168
 - Kierberg - 8003252
 - Krefeld-Oppum - 8000212
 - Köln Frankfurter Straße - 8003358
-- Köln Geldernstr/Parkgürtel - 8003360
 - Köln Hbf - 8000207
 - Köln/Bonn Flughafen - 8003330
 - Lennestadt-Altenhundem - 8000532
@@ -280,7 +267,6 @@ List of stations that have not been (fully) covered yet.
 - Merzenich - 8003990
 - Meschede - 8003993
 - Mülheim (Ruhr)-Styrum - 8000687
-- Münster (Westf) Hbf - 8000263
 - Norf - 8004462
 - Oberhausen Hbf - 8000286
 - Olsberg - 8004676
@@ -306,7 +292,6 @@ List of stations that have not been (fully) covered yet.
 - Mainz Hbf - 8000240
 - Mainz Römisches Theater - 8003816
 - Neuwied - 8000276
-- Nierstein - 8004432
 - Remagen - 8000310
 - Schifferstadt - 8000326
 - Trier Hbf - 8000134
