@@ -1,10 +1,6 @@
 # db-elevators
 
-Deutsche Bahn elevator information, enriched (by crowdsourcing) with OSM data.
-
-You're invited to help, see the [data structure](#data-structure) and [contributing](#contributing) sections!
-
-Using [this original dataset](https://developer.deutschebahn.com/store/apis/info?name=FaSta-Station_Facilities_Status&version=v2&provider=DBOpenData) provided by [Deutsche Bahn](https://www.bahn.de).
+Deutsche Bahn elevator information, enriched (by crowdsourcing) with OSM data. You're invited to help, see the [data structure](#data-structure) and [contributing](#contributing) sections! Using [this original dataset](https://developer.deutschebahn.com/store/apis/info?name=FaSta-Station_Facilities_Status&version=v2&provider=DBOpenData) provided by [Deutsche Bahn](https://www.bahn.de).
 
 [![npm version](https://img.shields.io/npm/v/db-elevators.svg)](https://www.npmjs.com/package/db-elevators)
 [![Build Status](https://travis-ci.org/juliuste/db-elevators.svg?branch=master)](https://travis-ci.org/juliuste/db-elevators)
