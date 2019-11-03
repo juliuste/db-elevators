@@ -4,9 +4,9 @@ List of stations that have not been (fully) covered yet.
 
 - [By Bundesland](#by-bundesland)
 
-**1670 of 2229** elevators covered **(74.9%)**.
+**1703 of 2229** elevators covered **(76.4%)**.
 
-**776 of 1104** stations fully covered **(70.3%)**.
+**796 of 1104** stations fully covered **(72.1%)**.
 
 ## By Bundesland
 
@@ -120,48 +120,28 @@ List of stations that have not been (fully) covered yet.
 ### Berlin
 
 - Alt-Reinickendorf - 8089103
-- Berlin Brandenburger Tor - 8089044
-- Berlin Frankfurter Allee - 8089013
 - Berlin Hauptbahnhof - 8011160
 - Berlin Ostbahnhof - 8010255
 - Berlin Potsdamer Platz - 8089032
-- Berlin Südkreuz - 8011113
-- Berlin Zoologischer Garten - 8010406
-- Berlin-Grünau - 8089063
 - Berlin-Hermsdorf - 8089064
-- Berlin-Mahlsdorf - 8089072
-- Berlin-Tegel - 8089089
 - Eichborndamm - 8089101
 - Friedenau - 8089058
-- Hermannstraße - 8089105
-- Köllnische Heide - 8089104
 - Lichterfelde Süd - 8089472
 - Osdorferstraße - 8089473
-- Ostkreuz - 8011162
-- Rathaus Steglitz - 8089036
-- Schulzendorf (b Tegel) - 8089000
-- Südende - 8089115
 - Warschauer Straße - 8089045
 - Yorckstraße (Großgörschenstraße) - 8089051
 
 
 ### Brandenburg
 
-- Babelsberg - 8080070
-- Birkenstein - 8070002
 - Brandenburg Hbf - 8010060
 - Doberlug-Kirchhain - 8010079
 - Erkner - 8013477
 - Falkensee - 8013479
 - Finsterwalde (Niederlausitz) - 8011542
-- Jüterbog - 8010182
 - Lübbenau (Spreewald) - 8010220
 - Michendorf - 8010233
 - Neustadt (Dosse) - 8010248
-- Oranienburg - 8013487
-- Potsdam Charlottenhof - 8010280
-- Potsdam Griebnitzsee - 8011695
-- Rangsdorf - 8012713
 - Rathenow - 8010296
 - Ruhland - 8010308
 - Trebbin - 8013137
