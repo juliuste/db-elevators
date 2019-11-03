@@ -4,9 +4,9 @@ List of stations that have not been (fully) covered yet.
 
 - [By Bundesland](#by-bundesland)
 
-**1764 of 2229** elevators covered **(79.1%)**.
+**1819 of 2229** elevators covered **(81.6%)**.
 
-**831 of 1104** stations fully covered **(75.3%)**.
+**868 of 1104** stations fully covered **(78.6%)**.
 
 ## By Bundesland
 
@@ -153,14 +153,10 @@ List of stations that have not been (fully) covered yet.
 ### Hamburg
 
 - Barmbek - 8000805
-- Blankenese - 8001007
 - Hamburg Hbf - 8002549
 - Hamburg-Altona - 8098553
 - Hamburg-Harburg - 8000147
-- Hamburg-Tonndorf - 8006197
-- Klein Flottbek - 8003312
 - Kornweg (Klein Borstel) - 8003410
-- Rissen - 8005106
 - Stadthausbrücke - 8005663
 
 
@@ -198,14 +194,12 @@ List of stations that have not been (fully) covered yet.
 
 ### Niedersachsen
 
-- Bad Bentheim - 8000879
 - Bad Pyrmont - 8000735
 - Baden (Kr Verden) - 8000773
 - Bienenbüttel - 8000955
 - Braunschweig Hbf - 8000049
 - Börßum - 8001063
 - Bückeburg - 8001245
-- Hameln - 8000148
 - Hannover Hbf - 8000152
 - Hannover-Flughafen - 8002589
 - Hannover-Nordstadt - 8079095
@@ -214,47 +208,28 @@ List of stations that have not been (fully) covered yet.
 - Langenhagen-Mitte - 8003545
 - Lehrte - 8000226
 - Lingen (Ems) - 8003701
-- Meppen - 8003978
 - Northeim (Han) - 8000283
 - Oker - 8004665
-- Osnabrück Hbf - 8000294
 - Seelze Pbf - 8005507
 - Soltau (Han) - 8000088
 - Uelzen - 8000168
-- Verden (Aller) - 8006076
 - Vienenburg - 8000364
-- Wolfsburg Hbf - 8006552
 
 
 ### Nordrhein-Westfalen
 
-- Altena (Westf) - 8000513
-- Bad Oeynhausen - 8000732
-- Bochum-Dahlhausen - 8001038
-- Bonn Hbf - 8000044
 - Bonn-Bad Godesberg - 8001082
 - Buir - 8001264
 - Bünde (Westf) - 8000059
 - Dinslaken - 8001469
 - Dortmund Hbf - 8000080
-- Duisburg-Großenbaum - 8001602
 - Düren - 8000084
-- Düsseldorf Zoo - 8001583
-- Düsseldorf-Derendorf - 8001586
-- Düsseldorf-Eller - 8001587
 - Düsseldorf-Garath - 8001589
 - Erndtebrück - 8001851
 - Essen Hbf - 8000098
-- Euskirchen - 8000100
-- Finnentrop - 8000102
 - Frechen-Königsdorf - 8002389
 - Gelsenkirchen Hbf - 8000118
-- Grevenbroich - 8000133
-- Gütersloh Hbf - 8002461
-- Hagen Hbf - 8000142
 - Horrem - 8000178
-- Kamen - 8003168
-- Kierberg - 8003252
 - Krefeld-Oppum - 8000212
 - Köln Frankfurter Straße - 8003358
 - Köln Hbf - 8000207
@@ -262,21 +237,13 @@ List of stations that have not been (fully) covered yet.
 - Lennestadt-Altenhundem - 8000532
 - Leverkusen-Rheindorf - 8003672
 - Lippstadt - 8000571
-- Meckenheim - 8003931
 - Meckenheim Industriepark - 8003937
 - Merzenich - 8003990
-- Meschede - 8003993
 - Mülheim (Ruhr)-Styrum - 8000687
-- Norf - 8004462
 - Oberhausen Hbf - 8000286
-- Olsberg - 8004676
-- Preußen - 8004883
 - Recklinghausen Hbf - 8000307
-- Schwelm - 8000033
 - Siegen Hbf - 8000046
-- Troisdorf - 8000135
 - Unna - 8000171
-- Warburg (Westf) - 8000196
 
 
 ### Rheinland-Pfalz
@@ -342,14 +309,10 @@ List of stations that have not been (fully) covered yet.
 
 ### Schleswig-Holstein
 
-- Aumühle - 8000669
-- Flensburg - 8000103
 - Kiel Hbf - 8000199
 - Neumünster - 8000271
-- Niebüll - 8004343
 - Reinfeld (Holst) - 8005019
 - Rendsburg - 8000312
-- Thesdorf - 8005858
 
 
 ### Thüringen
