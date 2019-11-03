@@ -4,9 +4,9 @@ List of stations that have not been (fully) covered yet.
 
 - [By Bundesland](#by-bundesland)
 
-**1703 of 2229** elevators covered **(76.4%)**.
+**1738 of 2229** elevators covered **(78%)**.
 
-**796 of 1104** stations fully covered **(72.1%)**.
+**816 of 1104** stations fully covered **(73.9%)**.
 
 ## By Bundesland
 
@@ -172,14 +172,11 @@ List of stations that have not been (fully) covered yet.
 ### Hessen
 
 - Bad Homburg - 8000712
-- Bebra - 8000029
 - Biblis - 8000503
-- Darmstadt Hbf - 8000068
 - Egelsbach - 8001672
 - Frankfurt (Main) Flughafen Regionalbahnhof - 8070004
 - Frankfurt (Main) Hbf - 8000105
 - Frankfurt am Main Flughafen Fernbahnhof - 8070003
-- Frankfurt-Rödelheim - 8002052
 - Gießen - 8000124
 - Gießen Oswaldsgarten - 8002269
 - Grünberg (Oberhess) - 8002439
@@ -203,9 +200,6 @@ List of stations that have not been (fully) covered yet.
 
 - Bergen auf Rügen - 8010033
 - Güstrow - 8010153
-- Neubrandenburg - 8010241
-- Pasewalk - 8010268
-- Rostock Hbf - 8010304
 - Rostock Lichtenhagen - 8012221
 
 
@@ -331,12 +325,8 @@ List of stations that have not been (fully) covered yet.
 
 ### Sachsen
 
-- Bautzen - 8010026
 - Dresden Flughafen - 8011399
-- Dresden-Neustadt - 8010089
 - Flughafen Leipzig/Halle - 8012183
-- Freiberg (Sachs) - 8010115
-- Heidenau - 8010163
 - Königstein (Sächs Schweiz) - 8012072
 - Leipzig Essener Straße - 8012200
 - Leipzig Markt - 8012186
@@ -347,30 +337,20 @@ List of stations that have not been (fully) covered yet.
 - Markkleeberg-Gaschwitz - 8011598
 - Netzschkau - 8012430
 - Niesky - 8013493
-- Oederan - 8012550
 - Pirna - 8010272
-- Plauen (Vogtl) Mitte - 8017442
 - Reichenbach (Vogtl) ob Bf - 8012739
-- Werdau - 8010372
 - Zittau - 8010393
-- Zwickau (Sachs) Hbf - 8010397
 
 
 ### Sachsen-Anhalt
 
-- Bernburg - 8010043
-- Bitterfeld - 8010050
 - Burg (b Magdeburg) - 8011294
-- Dessau Hbf - 8010077
 - Dieskau - 8011376
 - Genthin - 8010123
 - Könnern - 8010194
 - Magdeburg Hbf - 8010224
 - Magdeburg-Buckau - 8013456
-- Naumburg (Saale) Hbf - 8010240
-- Salzwedel - 8010310
 - Sandersleben (Anh) - 8010311
-- Sangerhausen - 8010312
 - Wernigerode - 8010374
 - Zeitz - 8010390
 
