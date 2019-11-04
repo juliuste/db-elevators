@@ -1,6 +1,6 @@
 {
 	"name": "db-elevators",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "Deutsche Bahn elevator information, enriched with OSM data.",
 	"keywords": [
 		"bahn",
