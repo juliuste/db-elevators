@@ -27,7 +27,7 @@ tape('upstream osm', async t => {
 	const elementsWithOsm = elevators.filter(item => !!item.osmNodeId)
 	for (const elementsWithOsmChunk of chunk(elementsWithOsm, 100)) {
 		const osmQuery = `[out:json][timeout:20]; ${elementsWithOsmChunk.map(item => `node(${item.osmNodeId}); out body;`).join('\n')}`
-		const osmResults = await queryOsm(osmQuery, { retryOpts: { retries: 3, minTimeout: 20000 } })
+		const osmResults = await queryOsm(osmQuery, { retryOpts: { retries: 3, minTimeout: 20000 }, endpoint: 'https://overpass.juliustens.eu/api/interpreter' })
 		elementsWithOsmChunk.forEach(element => {
 			const matching = osmResults.find(item => String(item.id) === String(element.osmNodeId))
 			t.ok(matching, `matching osm element ${element.osmNodeId}`)
