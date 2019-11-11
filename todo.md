@@ -4,9 +4,9 @@ List of stations that have not been (fully) covered yet.
 
 - [By Bundesland](#by-bundesland)
 
-**1819 of 2229** elevators covered **(81.6%)**.
+**1817 of 2230** elevators covered **(81.5%)**.
 
-**868 of 1104** stations fully covered **(78.6%)**.
+**868 of 1105** stations fully covered **(78.6%)**.
 
 ## By Bundesland
 
@@ -43,6 +43,7 @@ List of stations that have not been (fully) covered yet.
 - Göppingen - 8000127
 - HD-Weststadt/Südstadt - 8002681
 - Heddesheim/Hirschberg - 8002430
+- Hinterzarten - 8002848
 - Hockenheim - 8002883
 - Karlsruhe-Hagsfeld - 8003185
 - Kehl - 8003218
@@ -214,6 +215,7 @@ List of stations that have not been (fully) covered yet.
 - Soltau (Han) - 8000088
 - Uelzen - 8000168
 - Vienenburg - 8000364
+- Winsen (Luhe) - 8006484
 
 
 ### Nordrhein-Westfalen
@@ -323,7 +325,6 @@ List of stations that have not been (fully) covered yet.
 - Gößnitz - 8010134
 - Hermsdorf-Klosterlausnitz - 8011862
 - Jena-Göschwitz - 8010133
-- Leinefelde - 8010203
 - Saalfeld (Saale) - 8010309
 - Sömmerda - 8010328
 

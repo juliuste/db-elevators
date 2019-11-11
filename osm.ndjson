@@ -223,7 +223,7 @@
 {"id":"10121622","osmNodeId":"4083531674","stationName":"Berlin-Tegel","description":"von EG zu Tunnel","revised":true}
 {"id":"10121623","osmNodeId":"4083531686","stationName":"Berlin-Tegel","description":"von EG zu Tunnel","revised":true}
 {"id":"10148558","osmNodeId":"3707523567","stationName":"Berlin-Tempelhof","description":"zu Gleis 1/2 (S-Bahn)","revised":false}
-{"id":"10463334","osmNodeId":"3423097910","stationName":"Berlin-Wannsee","description":"zu Gleis 5/6","revised":false}
+{"id":"10463334","osmNodeId":"3423152603","stationName":"Berlin-Wannsee","description":"zu Gleis 5/6","revised":false}
 {"id":"10007929","osmNodeId":"3988280414","stationName":"Berlin-Wannsee","description":"zu Gleis 3/4 (S-Bahn)","revised":false}
 {"id":"10007919","osmNodeId":"3988280419","stationName":"Berlin-Wannsee","description":"zu Gleis 1/2 (S-Bahn)","revised":false}
 {"id":"10007917","osmNodeId":"3853161039","stationName":"Berlin-Wannsee","description":"von EG zu Tunnel","revised":false}
@@ -606,9 +606,7 @@
 {"id":"10020100","osmNodeId":"4035436551","stationName":"Frankfurt (Oder)","description":"zu Gleis 5/6","revised":false}
 {"id":"10020096","osmNodeId":"4035436542","stationName":"Frankfurt (Oder)","description":"zu Gleis 9/10","revised":false}
 {"id":"10179977","osmNodeId":"5115167720","stationName":"Frankfurt am Main Flughafen Fernbahnhof","description":"zu Gleis 6/7","revised":false}
-{"id":"10179981","osmNodeId":"5115167923","stationName":"Frankfurt am Main Flughafen Fernbahnhof","description":"zu Gleis 6/7","revised":false}
 {"id":"10180977","osmNodeId":"3615356720","stationName":"Frankfurt am Main Flughafen Fernbahnhof","description":"zu Gleis 4/5","revised":false}
-{"id":"10180976","osmNodeId":"5115167922","stationName":"Frankfurt am Main Flughafen Fernbahnhof","description":"zu Gleis 4/5","revised":false}
 {"id":"10122847","osmNodeId":"1320956841","stationName":"Frankfurt am Main Messe","description":"von EG zu Brücke","revised":false}
 {"id":"10348352","osmNodeId":"1320956881","stationName":"Frankfurt am Main Messe","description":"zu Gleis 1/2 (S-Bahn)","revised":false}
 {"id":"10315764","osmNodeId":"4215671207","stationName":"Frankfurt am Main Stadion","description":"zu Gleis 6/7","revised":false}
@@ -1011,7 +1009,8 @@
 {"id":"10466017","osmNodeId":"3102587851","stationName":"Laupheim West","description":"zu Gleis 2/3","revised":false}
 {"id":"10499353","osmNodeId":"4908531600","stationName":"Leer (Ostfriesl)","description":"zu Gleis 1","revised":false}
 {"id":"10499354","osmNodeId":"4908531601","stationName":"Leer (Ostfriesl)","description":"zu Gleis 2/4","revised":false}
-{"id":"10460935","osmNodeId":"4561829414","stationName":"Leinefelde","description":"zu Gleis 1/3","revised":true}
+{"id":"10460935","osmNodeId":"6952482945","stationName":"Leinefelde","description":"zu Gleis 1/3","revised":true}
+{"id":"10460934","osmNodeId":"6952482944","stationName":"Leinefelde","description":"zu Gleis 2/6","revised":true}
 {"id":"10038110","osmNodeId":"333741992","stationName":"Leinfelden","description":"zu Gleis 1","revised":false}
 {"id":"10477640","osmNodeId":"4127576595","stationName":"Leipzig Bayerischer Bahnhof","description":"zu Gleis 1/2","revised":false}
 {"id":"10477641","osmNodeId":"3986991280","stationName":"Leipzig Bayerischer Bahnhof","description":"zu Gleis 1/2","revised":false}
@@ -1760,7 +1759,6 @@
 {"id":"10479688","osmNodeId":"4009379450","stationName":"Wilhelmsburg","description":"zu Gleis 1/2 (S-Bahn)","revised":false}
 {"id":"10277699","osmNodeId":"3045514029","stationName":"Winnenden","description":"zu Gleis 1","revised":false}
 {"id":"10277700","osmNodeId":"2386516257","stationName":"Winnenden","description":"zu Gleis 2/3","revised":false}
-{"id":"10478167","osmNodeId":"3954983577","stationName":"Winsen (Luhe)","description":"zu Gleis 3/4","revised":false}
 {"id":"10277698","osmNodeId":"3061149129","stationName":"Winterbach (b Schorndorf)","description":"zu Gleis 2","revised":false}
 {"id":"10277697","osmNodeId":"3061150441","stationName":"Winterbach (b Schorndorf)","description":"zu Gleis 1","revised":false}
 {"id":"10471041","osmNodeId":"2467593211","stationName":"Witten Hbf","description":"zu Gleis 1/2","revised":false}
