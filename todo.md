@@ -4,9 +4,9 @@ List of stations that have not been (fully) covered yet.
 
 - [By Bundesland](#by-bundesland)
 
-**1817 of 2230** elevators covered **(81.5%)**.
+**1848 of 2230** elevators covered **(82.9%)**.
 
-**868 of 1105** stations fully covered **(78.6%)**.
+**889 of 1105** stations fully covered **(80.5%)**.
 
 ## By Bundesland
 
@@ -31,40 +31,28 @@ List of stations that have not been (fully) covered yet.
 ### Baden-Württemberg
 
 - Bad Rappenau - 8000736
-- Baden-Baden - 8000774
 - Eberbach - 8000369
 - Ehningen (b Böblingen) - 8001689
 - Eislingen (Fils) - 8001731
 - Esslingen-Zell - 8006642
-- Eutingen im Gäu - 8000101
 - Freiberg (Neckar) - 8002065
 - Freiburg-Wiehre - 8002070
 - Giengen (Brenz) - 8002272
 - Göppingen - 8000127
 - HD-Weststadt/Südstadt - 8002681
-- Heddesheim/Hirschberg - 8002430
-- Hinterzarten - 8002848
-- Hockenheim - 8002883
 - Karlsruhe-Hagsfeld - 8003185
 - Kehl - 8003218
 - Kirchzarten - 8003293
 - Ladenburg - 8003489
-- Lahr (Schwarzw) - 8003494
 - Laudenbach (Bergstr) - 8003571
 - Mannheim Hbf - 8000244
 - Mannheim-Rheinau - 8003845
 - Meckenbeuren - 8003930
 - Mosbach-Neckarelz - 8000264
 - Mössingen - 8004070
-- Neckarsulm Nord - 8004238
 - Niederbiegen - 8004363
-- Oberesslingen - 8004528
 - Oberkochen - 8004549
-- Plochingen - 8000302
-- Schopfheim - 8005420
 - Schwetzingen - 8005494
-- Schwäbisch Gmünd - 8000329
-- Sinsheim (Elsenz) Hbf - 8005578
 - Stuttgart Flughafen/Messe - 8005768
 - Stuttgart Österfeld - 8005779
 - Stuttgart-Obertürkheim - 8005772
@@ -250,31 +238,22 @@ List of stations that have not been (fully) covered yet.
 
 ### Rheinland-Pfalz
 
-- Bad Ems - 8000701
 - Cochem (Mosel) - 8001340
 - Grünstadt - 8000137
-- Guntersblum - 8002474
 - Hochspeyer - 8002875
 - Idar-Oberstein - 8003040
-- Jünkerath - 8003135
 - Ludwigshafen-Oggersheim - 8003766
 - Mainz Hbf - 8000240
 - Mainz Römisches Theater - 8003816
 - Neuwied - 8000276
 - Remagen - 8000310
-- Schifferstadt - 8000326
-- Trier Hbf - 8000134
 - Winden (Pfalz) - 8006468
 
 
 ### Saarland
 
 - Homburg (Saar) Hbf - 8000176
-- Merzig (Saar) - 8003992
 - Saarbrücken Hbf - 8000323
-- Saarlouis Hbf - 8005247
-- St. Ingbert - 8005649
-- Türkismühle - 8000154
 
 
 ### Sachsen
