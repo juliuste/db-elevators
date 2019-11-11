@@ -31,7 +31,7 @@ tape('upstream osm', async t => {
 		elementsWithOsmChunk.forEach(element => {
 			const matching = osmResults.find(item => String(item.id) === String(element.osmNodeId))
 			t.ok(matching, `matching osm element ${element.osmNodeId}`)
-			t.ok(matching.tags.highway === 'elevator', `highway=elevator ${element.osmNodeId}`)
+			t.ok(matching && matching.tags && matching.tags.highway === 'elevator', `highway=elevator ${element.osmNodeId}`)
 		})
 	}
 	t.end()
