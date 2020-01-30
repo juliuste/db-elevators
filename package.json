@@ -43,7 +43,7 @@
 		"chalk": "^3.0.0",
 		"cli-autocomplete": "^0.4.3",
 		"db-stations": "^3.0.0",
-		"depcheck": "^0.9.1",
+		"depcheck": "0.9.1",
 		"eslint": "^6.6.0",
 		"eslint-config-standard": "^14.1.0",
 		"eslint-plugin-import": "^2.18.2",
