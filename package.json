@@ -56,7 +56,7 @@
 		"got": "^9.6.0",
 		"is-uic-location-code": "0.0.1",
 		"lodash": "^4.17.15",
-		"mri": "^1.1.4",
+		"mri": "^1.1.5",
 		"ndjson": "^1.5.0",
 		"select-prompt": "^0.3.2",
 		"tape": "^4.11.0",
