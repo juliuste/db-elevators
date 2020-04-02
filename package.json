@@ -40,7 +40,7 @@
 		"@turf/flatten": "^5.1.5",
 		"@turf/helpers": "^6.1.4",
 		"ajv": "^6.10.2",
-		"chalk": "^3.0.0",
+		"chalk": "^4.0.0",
 		"cli-autocomplete": "^0.4.3",
 		"db-stations": "^3.0.0",
 		"depcheck": "^0.9.1",
