@@ -13,7 +13,8 @@ const mergeOsmDataWithStatic = (osmData, fetchedElevators) => {
 		if (!id || !stationName) throw new Error(`invalid entry "${JSON.stringify(row)}"`)
 
 		const matching = elevators.filter(item => item.id === id)
-		if (matching.length !== 1) throw new Error(`no unique matching entries found in original dataset for elevator "${id}"`)
+		if (matching.length < 1) return console.error(`WARNING: no matching entries found in original dataset for elevator "${id}", skipping`)
+		if (matching.length > 1) return console.error(`WARNING: multiple matching entries found in original dataset for elevator "${id}", skipping`)
 		const [item] = matching
 
 		if (item.osmNodeId) throw new Error(`duplicate osm data for elevator "${id}"`)
