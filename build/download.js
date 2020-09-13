@@ -2,7 +2,7 @@
 
 const got = require('got')
 const SchemaValidator = require('ajv')
-const dbStations = require('db-stations/data')
+const dbStations = require('db-stations/full')
 const { get } = require('lodash')
 const { flow, map, filter, omit } = require('lodash/fp')
 
@@ -49,12 +49,11 @@ const entryHasStation = e => !!e.station
 
 const download = async () => {
 	const resource = 'https://api.deutschebahn.com/fasta/v2/facilities'
-	const { body: data } = await got.get(resource, {
-		json: true,
+	const data = await (got.get(resource, {
 		headers: {
 			Authorization: 'Bearer 83a59e0844becfcd386eca18df2c1fe6'
 		}
-	})
+	}).json())
 	validateFasta(data)
 	return flow([
 		map(transformEntry),

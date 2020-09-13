@@ -5,7 +5,7 @@ const contains = require('@turf/boolean-contains').default
 const { point } = require('@turf/helpers')
 const flatten = require('@turf/flatten')
 const { uniq, flatMap, get, sortBy, groupBy } = require('lodash')
-const stations = require('db-stations/data')
+const stations = require('db-stations/full')
 const Slugger = require('github-slugger')
 const slugger = new Slugger()
 

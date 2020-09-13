@@ -4,7 +4,7 @@ const tapeWithoutPromise = require('tape')
 const addPromiseSupport = require('tape-promise').default
 const tape = addPromiseSupport(tapeWithoutPromise)
 const queryOsm = require('@derhuerst/query-overpass')
-const stations = require('db-stations/data')
+const stations = require('db-stations/full')
 const chunk = require('lodash/chunk')
 
 const elevators = require('.')
