@@ -16,11 +16,11 @@ const fastaSchema = {
 			description: { type: 'string', minLength: 1, nullable: true },
 			stationnumber: { type: 'number', minimum: 1 },
 			geocoordX: { type: 'number', maximum: 180, minimum: -180, nullable: true },
-			geocoordY: { type: 'number', maximum: 90, minimum: -90, nullable: true }
+			geocoordY: { type: 'number', maximum: 90, minimum: -90, nullable: true },
 		},
-		required: ['equipmentnumber', 'type', 'stationnumber']
+		required: ['equipmentnumber', 'type', 'stationnumber'],
 	},
-	minItems: 200
+	minItems: 200,
 }
 
 const validateWithoutError = new SchemaValidator({ nullable: true, allErrors: true }).compile(fastaSchema)
@@ -38,9 +38,9 @@ const transformEntry = e => {
 		station: getStation(e.stationnumber),
 		location: (e.geocoordX && e.geocoordY) ? {
 			longitude: e.geocoordX,
-			latitude: e.geocoordY
+			latitude: e.geocoordY,
 		} : null,
-		type: e.type.toLowerCase()
+		type: e.type.toLowerCase(),
 	}
 }
 
@@ -51,8 +51,8 @@ const download = async () => {
 	const resource = 'https://api.deutschebahn.com/fasta/v2/facilities'
 	const data = await (got.get(resource, {
 		headers: {
-			Authorization: 'Bearer 83a59e0844becfcd386eca18df2c1fe6'
-		}
+			Authorization: 'Bearer 83a59e0844becfcd386eca18df2c1fe6',
+		},
 	}).json())
 	validateFasta(data)
 	return flow([
@@ -62,7 +62,7 @@ const download = async () => {
 		filter(e => {
 			if (entryHasStation(e)) return true
 			console.error('entry without station, skipping', e.id)
-		})
+		}),
 	])(data)
 }
 

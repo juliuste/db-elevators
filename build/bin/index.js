@@ -10,7 +10,7 @@ const pkg = require('../../package.json')
 const { queryStation, parseStation, queryElementId, queryOsmNodeId, verifyOsmNodeId } = require('./lib')
 
 const argv = mri(process.argv.slice(2), {
-	boolean: ['help', 'h', 'version', 'v']
+	boolean: ['help', 'h', 'version', 'v'],
 })
 
 const opt = {
@@ -18,7 +18,7 @@ const opt = {
 	help: argv.help || argv.h,
 	version: argv.version || argv.v,
 	open: argv['auto-open'] || argv.o,
-	unknownOnly: argv['unknown-only'] || argv.u
+	unknownOnly: argv['unknown-only'] || argv.u,
 }
 
 if (opt.help === true) {
@@ -66,7 +66,7 @@ const main = async (opt) => {
 	const options = selectable.map(elevator => {
 		return {
 			value: { id: elevator.id, description: elevator.description },
-			title: `${elevator.description || 'No description'}, FaSta-ID: ${elevator.id}`
+			title: `${elevator.description || 'No description'}, FaSta-ID: ${elevator.id}`,
 		}
 	})
 	const { id: elevatorId, description: elevatorDescription } = await queryElementId('Which elevator?', options)
@@ -80,7 +80,7 @@ const main = async (opt) => {
 		osmNodeId,
 		stationName,
 		description: elevatorDescription,
-		revised: true
+		revised: true,
 	}
 
 	const ndjson = JSON.stringify(entries) + '\n'

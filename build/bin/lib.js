@@ -13,9 +13,9 @@ const findStations = async query => {
 	const { body } = await got.get('https://2.db.transport.rest/stations', {
 		query: {
 			results: 100,
-			query
+			query,
 		},
-		json: true
+		json: true,
 	})
 	return body
 }
@@ -61,7 +61,7 @@ const verifyOsmNodeId = (x) => {
 const queryOsmNodeId = (msg) => new Promise((resolve, reject) =>
 	textPrompt(msg)
 		.on('submit', resolve)
-		.on('abort', (v) => reject(new Error(`Rejected with ${v}.`)))
+		.on('abort', (v) => reject(new Error(`Rejected with ${v}.`))),
 )
 
 module.exports = {
@@ -69,5 +69,5 @@ module.exports = {
 	parseStation,
 	queryElementId,
 	queryOsmNodeId,
-	verifyOsmNodeId
+	verifyOsmNodeId,
 }
