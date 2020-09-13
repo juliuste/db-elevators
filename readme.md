@@ -4,7 +4,6 @@ Deutsche Bahn elevator information, enriched (by crowdsourcing) with OSM data. Y
 
 [![npm version](https://img.shields.io/npm/v/db-elevators.svg)](https://www.npmjs.com/package/db-elevators)
 [![Build Status](https://travis-ci.org/juliuste/db-elevators.svg?branch=master)](https://travis-ci.org/juliuste/db-elevators)
-[![Greenkeeper badge](https://badges.greenkeeper.io/juliuste/db-elevators.svg)](https://greenkeeper.io/)
 [![license](https://img.shields.io/github/license/juliuste/db-elevators.svg?style=flat)](license)
 
 ## Installation and Usage
